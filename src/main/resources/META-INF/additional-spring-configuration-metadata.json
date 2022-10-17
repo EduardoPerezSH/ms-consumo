@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "trut.store.password",
+    "type": "java.lang.String",
+    "description": "A description for 'restTemplate.config.trutStorePassword'"
+  },
+  {
+    "name": "consumo.ms.prueba.ip",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo.ms.prueba.ip'"
+  },
+  {
+    "name": "trut.store",
+    "type": "java.lang.String",
+    "description": "A description for 'restTemplate.config.trutStore'"
+  }
+]}
